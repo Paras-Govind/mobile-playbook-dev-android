@@ -20,7 +20,7 @@ dependencyCheck {
         delay = 16000
     }
 
-    // suppressionFile = "suppression.xml"
+    suppressionFile = "suppression.xml"
 
 }
 
